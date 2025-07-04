@@ -37,11 +37,11 @@ img{
     overflow-x: auto;
     gap: 10px;
 }
+
 .boasvindas{
     background-color: aqua;
     font-size: 30px;
     text-align: center;
     padding-top: 20px;
-    padding-block: 30px;
-
+    padding-bottom: 30px;
 }
